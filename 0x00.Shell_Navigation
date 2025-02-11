@@ -36,7 +36,7 @@ man mkdir
 man rmdir
 Extra resources:
 
-Linux - /tmp
+Linux - /tmp: https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone: https://fs.blog/feynman-technique/ , without the help of Google:
 
